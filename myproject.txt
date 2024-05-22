@@ -1,0 +1,5 @@
+This project is all about how to use the Git and git hub.
+I am practising the programs inn ec2 instance.
+It's 6 o clock morning I have started writing the codes.
+Today I have a class of linux where we will be taught basic linux commands.
+
